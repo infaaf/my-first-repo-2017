@@ -1,0 +1,8 @@
+host1#1.1.1.1#gp1 test,gp2 test#Template App FTP Service,Template App HTTP Service
+host2#1.1.1.1#gp2 test,gp3 test#Template App FTP Service,Template App HTTP Service
+host3#1.1.1.1#gp3 test,gp4 test#Template App FTP Service,Template App HTTP Service
+host4#1.1.1.1#gp4 test,gp5 test#Template App FTP Service,Template App HTTP Service
+host5#1.1.1.1#gp5 test,gp6 test#Template App FTP Service,Template App HTTP Service,Template App HTTPS Service
+host6#1.1.1.1#gp5 test,gp6 test#Template App FTP Service,Template App HTTP Service,Template App HTTPS Service
+host7#1.1.1.1#gp5 test,gp6 test#Template App FTP Service,Template App HTTP Service,Template App HTTPS Service
+host8#1.1.1.1#gp5 test,gp6 test#Template App FTP Service,Template App HTTP Service,Template App HTTPS Service
